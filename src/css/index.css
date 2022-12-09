@@ -1,0 +1,70 @@
+@font-face {
+    font-family: "Gotham Rounded";
+    src: url("//sdp-hc.s3.amazonaws.com/fonts/GothamRounded-Bold.otf") format("opentype");
+    src: url("//sdp-hc.s3.amazonaws.com/fonts/GothamRounded-Bold.eot?#iefix") format("embedded-opentype"),
+      url("//sdp-hc.s3.amazonaws.com/fonts/GothamRounded-Bold.woff2") format("woff2"),
+      url("//sdp-hc.s3.amazonaws.com/fonts/GothamRounded-Bold.woff") format("woff"),
+      url("//sdp-hc.s3.amazonaws.com/fonts/GothamRounded-Bold.ttf") format("truetype"),
+      url("//sdp-hc.s3.amazonaws.com/fonts/GothamRounded-Bold.svg#GothamRounded-Bold") format("svg");
+  }
+  
+body {
+    margin: 0;
+    font-family: "Gotham Rounded";
+    background-color: #F9D778;
+}
+
+#head {
+    width: 100%;
+    background-color: #B2381B;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    color: white;
+}
+
+#head img {
+    margin-top: 20px;
+}
+
+.description {
+    width: 80%;
+    text-align: center;
+    margin: 20px 0px 20px 0px;
+}
+
+#main {
+    width: 100%;
+    font-family: "Gotham Rounded";
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    color: black;
+    margin-top: 20px;
+}
+
+.options {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+    gap: 10px;
+}
+
+#main img {
+    width: 50px;
+}
+
+#footer {
+    position: fixed;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    bottom: 0;
+    background-color: #9E2D16;
+    width: 100%;
+    height: 30px;
+}
