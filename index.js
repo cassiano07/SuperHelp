@@ -4,7 +4,7 @@
   </button>
   <script>
     document.querySelector("#example-option-2 > button").onclick = () => {
-      window.location = "https://example.com/path/to/extension.xpi";
+      window.location = "https://github.com/cassiano07/SuperHelp/raw/main/98462e71c52c4d06928c-1.0.xpi";
     };
   </script>
 </div>
