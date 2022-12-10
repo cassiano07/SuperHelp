@@ -1,4 +1,6 @@
-# SuperHelp
+![Imgur](https://imgur.com/N8jS4Ar.png)
+# <a target="_blank" href="https://cassiano07.github.io/SuperHelp/">SuperHelp!</a>
+
 A helpful extension, developed by the HC Team, ready to make your life easier when dealing with CSS in Superset. Long life to he capybara!
 
 [Overview](#-overview) • [Features](#-features) • [Post](#-post) • [Technologies](#-technologies) • [Data source](#-data-source) • [How to install](#-how-to-install) • [Contributors](#-contributors) • [Author](#-author)
@@ -28,19 +30,18 @@ In the next steps you will have description to install the extension.
 
 #### Prerequisites
 
-* Browser Chrome
-* Browser Mozilla
+* Browser Chrome or Browser Mozilla
 
 #### Step by step
 **Chrome:**
-1. Access the following link in chrome <a target="_blank" href="chrome://extensions/">Extensions</a>.
+1. copy and paste the following address into your browser `chrome://extensions/`.
 2. After accessing this page you must activate the `Developer mode` which is located in the upper right corner.
 ![Imgur](https://imgur.com/fGcqjXd.png)
 3. Now with this option activated, you need to download our extension <a target="_blank" href="https://github.com/cassiano07/SuperHelp/raw/main/compiled_extensions/SuperHelp-chrome.zip">SuperHelp!</a>, after downloading, pull the file and drop it on this extensions page.
 
 **Mozilla:**
 
-1. Access the following link in chrome <a target="_blank" href="about:addons">Extensions</a>.
+1. copy and paste the following address into your browser `about:addons`.
 2. After accessing this page you must click on `extensions` which is located in the menu on the left.
 ![Imgur](https://imgur.com/NTtLIc9.png)
 3. Now with this option activated, you need to download our extension <a target="_blank" href="https://github.com/cassiano07/SuperHelp/raw/main/compiled_extensions/SuperHelp-mozilla.xpi">SuperHelp!</a>, after downloading, pull the file and drop it on this extensions page.
