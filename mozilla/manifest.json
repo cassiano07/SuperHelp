@@ -1,0 +1,29 @@
+{
+
+    "manifest_version": 2,
+    "name": "SuperHelp",
+    "version": "1.0",
+    "permissions": ["storage", "activeTab", "scripting", "tabs"],
+    "description": "A helpful extension, developed by the HC Team, ready to make your life easier when dealing with CSS in Superset. Long life to he capybara!",
+    "icons": {
+        "16": "/src/img/capi_16.png",
+        "32": "/src/img/capi_32.png",
+        "128": "/src/img/capi_128.png"
+    },
+  
+    "content_scripts": [
+      {
+        "matches": ["*://*/superset/dashboard/*"],
+        "js": ["./src/js/modify.js"]
+      }
+    ],
+    "browser_action": {
+      "default_icon": "/src/img/capi_128.png",
+      "default_title": "SuperHelp!",
+      "default_popup": "/src/html/popup.html"
+    },
+    "content_security_policy": "script-src 'self' 'wasm-unsafe-eval'"
+    
+  
+  }
+  
