@@ -3,7 +3,7 @@
 
 A helpful extension, developed by the HC Team, ready to make your life easier when dealing with CSS in Superset. Long life to he capybara!
 
-[Overview](#-overview) • [Features](#-features) • [Post](#-post) • [Technologies](#-technologies) • [Data source](#-data-source) • [How to install](#-how-to-install) • [Contributors](#-contributors) • [Author](#-author)
+[Overview](#-overview) • [Options](#-options-available-in-the-extension) • [Technologies](#-technologies) • [How to install](#-how-to-install) • [Prerequisites](#-prerequisites) •  [Contributors](#-contributors) • [Authors](#-authors)
 
 ### 👀 Overview
 The extension was developed by a team of pranksters to facilitate css activities in Superset.
