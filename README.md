@@ -10,9 +10,9 @@ The extension was developed by a team of pranksters to facilitate css activities
 
 ### 🔎 Options available in the extension:
 
-* Removes the CSS applied to the dashboard(**Limpar CSS 1x**)
-* It will keep removing the css applied to the dashboard, until you click on the option again(**CSS é o caralho!!!**)
-* It will edit the dashboard and open the css window, after closing the css screen on the "X" it will try to save the change automatically(**Me salva capivara!**)
+* Removes the CSS applied to the dashboard(**Clean CSS 1x**)
+* It will keep removing the css applied to the dashboard, until you click on the option again(**CSS is the shit!!!**)
+* It will edit the dashboard and open the css window, after closing the css screen on the "X" it will try to save the change automatically(**Save me capybara!**)
 * change extension language
 
 ### 👨‍💻 Technologies
@@ -41,10 +41,7 @@ In the next steps you will have description to install the extension.
 
 **Mozilla:**
 
-1. copy and paste the following address into your browser `about:addons`.
-2. After accessing this page you must click on `extensions` which is located in the menu on the left.
-![Imgur](https://imgur.com/NTtLIc9.png)
-3. Now with this option activated, you need to download our extension <a target="_blank" href="https://github.com/cassiano07/SuperHelp/raw/main/compiled_extensions/SuperHelp-mozilla.xpi">SuperHelp!</a>, after downloading, pull the file and drop it on this extensions page.
+1. Go to the link and add it to your browser <a target="_blank" href="https://addons.mozilla.org/pt-BR/firefox/addon/superhelp/">SuperHelp!</a>
    
 
 ### 🤝 Contributors

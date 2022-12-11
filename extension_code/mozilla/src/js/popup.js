@@ -38,7 +38,7 @@ function change_language(language) {
 
     let languages = {
         "pt-BR": {"option1": "Limpar CSS 1x", "option2": "CSS é o caralho!!!", "option3": "Me salva capivara!"},
-        "en": {"option1": "language 1x", "option2": "language é o caralho!!!", "option3": "language capivara!"}
+        "en": {"option1": "Clean CSS 1x", "option2": "CSS is the shit!!!", "option3": "Save me capybara!"}
     }
 
     document.getElementById("option1").innerText = languages[language].option1;
