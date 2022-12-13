@@ -8,7 +8,7 @@ A helpful extension, developed by the HC Team, ready to make your life easier wh
 ### 👀 Overview
 The extension was developed by a team of pranksters to facilitate css activities in Superset.
 
-![SuperHelp-gif](https://user-images.githubusercontent.com/57646816/206903668-6640ea67-f7d4-45ac-8230-3c4c8a5844a4.gif)
+![SuperHelp-gif](src/img/SuperHelp-gif.gif)
 
 
 ### 🔎 Options available in the extension:
