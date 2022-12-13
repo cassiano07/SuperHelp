@@ -3,7 +3,7 @@
     "manifest_version": 2,
     "name": "SuperHelp",
     "version": "1.1",
-    "permissions": ["storage", "activeTab", "scripting", "tabs"],
+    "permissions": ["activeTab"],
     "description": "A helpful extension, developed by the HC Team, ready to make your life easier when dealing with CSS in Superset. Long life to he capybara!",
     "icons": {
         "16": "/src/img/capi_16.png",

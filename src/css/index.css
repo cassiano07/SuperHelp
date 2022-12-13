@@ -42,21 +42,7 @@ body {
     align-items: center;
     flex-direction: column;
     color: black;
-    margin-top: 20px;
-}
-
-.options {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    width: 100%;
-    padding: 20px;
-    gap: 10px;
-    flex-wrap: wrap;
-}
-
-.social-media-list img {
-    width: 30px !important;
+    margin-bottom: 50px;
 }
 
 #main img {
@@ -64,7 +50,7 @@ body {
 }
 
 #main video {
-    width: 500px;
+    width: 80%;
 }
 
 .social-media {
@@ -77,8 +63,6 @@ body {
     background-color: #543438;
     color: white;
     padding: 20px;
-    position: fixed;
-    bottom: 30px;
 }
 
 .social-media-list {
@@ -88,6 +72,10 @@ body {
     flex-wrap: wrap;
 }
 
+.social-media-list img {
+    width: 30px !important;
+}
+
 .person {
     display: flex;
     flex-direction: column;
@@ -95,6 +83,24 @@ body {
     align-items: center;
     padding: 10px;
     border-radius: 10px;
+}
+
+#preview {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 10px;
+    padding: 20px;
+}
+
+.options {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    gap: 10px;
+    flex-wrap: wrap;
 }
 
 #footer {
