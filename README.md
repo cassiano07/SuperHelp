@@ -37,10 +37,7 @@ In the next steps you will have description to install the extension.
 
 #### Step by step
 **Chrome:**
-1. copy and paste the following address into your browser `chrome://extensions/`.
-2. After accessing this page you must activate the `Developer mode` which is located in the upper right corner.
-![Imgur](https://imgur.com/fGcqjXd.png)
-3. Now with this option activated, you need to download our extension <a target="_blank" href="https://github.com/cassiano07/SuperHelp/raw/main/compiled_extensions/SuperHelp-chrome.zip">SuperHelp!</a>, after downloading, pull the file and drop it on this extensions page.
+1. Go to the link and add it to your browser <a target="_blank" href="https://chrome.google.com/webstore/detail/superhelp/edanghndmiopbgagaaeogenbmolhoplh?hl">SuperHelp!</a>
 
 **Mozilla:**
 
